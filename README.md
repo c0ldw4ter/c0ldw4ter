@@ -30,7 +30,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Back-End Developer <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="40"> from Russia .
+I am a Fullstack developer <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="40"> from Russia .
 
 - :octocat: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
