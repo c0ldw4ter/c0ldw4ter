@@ -6,7 +6,7 @@
 
 
    <div id="badges">
-  <a href="linkedin.com/in/daniil-timofeev-340318346">
+  <a href="https://www.linkedin.com/in/daniil-timofeev-340318346/">
     <img src="https://img.shields.io/badge/LinkedIn-123eaf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/share/14j4Yk9TFk">
