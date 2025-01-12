@@ -40,7 +40,7 @@ I am a Fullstack developer <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC
   
 - :suspect: I'm prefer heavy music)	:metal::smiling_imp:
   
-- :mailbox:How to reach me: 💙_heart:[MyLinkedIN](https://www.linkedin.com/in/daniil-timofeev-340318346/)💙_heart:
+- :mailbox:How to reach me: 💙[<span style="color:white">MyLinkedIN</span>](https://www.linkedin.com/in/daniil-timofeev-340318346/)💙
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
