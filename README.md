@@ -30,7 +30,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Software\DevOps Engineer from Russia    <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="100"> 
+I am a Software\DevOps Engineer from Russia    <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="100"> <br>
 Mostly like to work with back-end)
 
 - :octocat: I’m working as a Software Engineer and contributing to  backend for building web applications.
