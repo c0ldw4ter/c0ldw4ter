@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/share/14j4Yk9TFk">
     <img src="https://img.shields.io/badge/Facebook-3005cd?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
-  <a href="https://t.me/no_username101">
+  <a href="https://t.me/mrdaniil00">
     <img src="https://img.shields.io/badge/Telegram-29f2fa?style=for-the-badge&logo=telegram&logoColor=black"  alt="Telegram Badge"/>
   </a>
 </div>
